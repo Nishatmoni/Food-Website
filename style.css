@@ -1,0 +1,31 @@
+.belive{
+    color: red;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex
+    
+}
+.divide-width{
+    width: 50%;
+    padding-left:5% ;
+}
+.divide-width img{
+    width: 80%;
+}
+p{
+    color:#5F6A6A;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 255, 98),rgb(255, 181, 71));
+    padding: 10px 40px;
+    color:white;
+    font-weight: 700;
+    border-radius: 40px;
+}
