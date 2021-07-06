@@ -58,4 +58,28 @@ p{
 .pic{
     border-radius: 40px;
 }
+.social-con{
+    width: 30%;
+       margin-left: 5%;
+       margin-right: 5%;
+       padding: 20px;
+       border-radius: 40px;
+}
+#social-cotainer{
+    box-shadow: 10px 10px 20px gray;
+    padding: 10px;
+    border-radius: 30px;
+    margin-left: 5%;
+       margin-right: 5%;
+       
+}
+.net{
+    color:#0f2e2e;
+
+}
+footer{
+    background-color:black ;
+    text-align: center;
+    padding: 10px;
+}
 
