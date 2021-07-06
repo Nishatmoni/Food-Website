@@ -21,7 +21,7 @@ h1{
     width: 80%;
 }
 
-p{
+.p-coloer{
     color:#5F6A6A;
 }
 .link-button{
@@ -77,9 +77,14 @@ p{
     color:#0f2e2e;
 
 }
+.color-r{
+    color:#5F6A6A;
+}
 footer{
     background-color:black ;
     text-align: center;
     padding: 10px;
 }
-
+footer p{
+    color: white;
+}
